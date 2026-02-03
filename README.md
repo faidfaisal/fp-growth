@@ -102,7 +102,7 @@ fp-growth/
 
 ## Applications
 
-FP-Growth is widely used in:
+FP-Growth is widely used in various data mining and analytics tasks, including:
 
 - Market basket analysis
 - Recommendation systems
@@ -110,39 +110,39 @@ FP-Growth is widely used in:
 - Bioinformatics
 - Text mining
 
+---
+
 ## Performance
 
-FP-Growth demonstrates superior performance compared to Apriori-based algorithms:
+FP-Growth offers several advantages over traditional Apriori-based approaches:
 
 - Faster execution on dense datasets
 - Lower memory consumption
-- Better scalability for long patterns
+- Scales efficiently with long frequent patterns
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## Course Information
-
-**ESE 327 Project 1**  
-Developed as part of the ESE 327 coursework.
+---
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License**. See the LICENSE file for details.
+
+---
 
 ## References
 
-- Han, J., Pei, J., & Yin, Y. (2000). Mining frequent patterns without candidate generation. *ACM SIGMOD Record*, 29(2), 1-12.
+- Han, J., Pei, J., & Yin, Y. (2000). *Mining frequent patterns without candidate generation*. ACM SIGMOD Record, 29(2), 1–12.  
+- UCI Machine Learning Repository: [https://archive.ics.uci.edu/ml/index.php](https://archive.ics.uci.edu/ml/index.php)
+
+---
 
 ## Author
 
-[Faid Faisal]  
-[faidfaisal1@gmail.com]  
+**Faid Faisal**  
+Email: [faidfaisal1@gmail.com](mailto:faidfaisal1@gmail.com)
+
+---
 
 ## Acknowledgments
 
-- Course instructor and TAs for guidance
-- Original FP-Growth paper authors
-
----
+- Original FP-Growth paper authors for the foundational algorithm  
+- UCI Machine Learning Repository for providing benchmark datasets
