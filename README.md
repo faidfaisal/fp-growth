@@ -95,9 +95,7 @@ Association Rules:
 ## Project Structure
 ```
 fp-growth/
-├── main.cpp          # Main program entry point
-├── fpgrowth.h        # FP-Growth algorithm implementation
-├── fptree.h          # FP-tree data structure
+├── fptree.cpp        # FP-Growth algorithm implementation
 ├── README.md         # This file
 └── examples/         # Sample datasets and outputs
 ```
