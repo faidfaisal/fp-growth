@@ -135,13 +135,6 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ---
 
-## Author
-
-**Faid Faisal**  
-Email: [faidfaisal1@gmail.com](mailto:faidfaisal1@gmail.com)
-
----
-
 ## Acknowledgments
 
 - Original FP-Growth paper authors for the foundational algorithm  
